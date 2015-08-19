@@ -1,0 +1,21 @@
+{
+    "name": "puti-test/yii2-color520-puti",
+    "description": "puti test",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","test"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "puti",
+            "email": "puti@color520.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "puti\\test\\": ""
+        }
+    }
+}
